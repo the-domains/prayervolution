@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Prayervolution]]></title>
         <description><![CDATA[Prayervolution]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/prayervolution/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 17 Jun 2016 23:19:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 17 Jun 2016 23:30:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/prayervolution/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbd53b70-00e1-496a-9a85-11c3630da2dd.jpg">]]></description>
-            <link>undefinedwith-all-the-power-within-melet-me-return-to-lovelet-me-walk/index.html</link>
+            <link>https://thegrid.ai/prayervolution/with-all-the-power-within-melet-me-return-to-lovelet-me-walk/index.html</link>
             <guid isPermaLink="false">4dbafe1e-9261-4e61-bd5d-d9c9d38d37a5</guid>
-            <pubDate>Fri, 17 Jun 2016 23:19:25 GMT</pubDate>
+            <pubDate>Fri, 17 Jun 2016 23:29:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
