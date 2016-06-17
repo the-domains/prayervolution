@@ -13,8 +13,8 @@ description: >-
   only thing we know for sure is that we Know nothing at all! May we actively
   seek to take steps towards the light always May we be guided Hear this heart
   prayer And so be Love to all.
-datePublished: '2016-06-17T23:29:52.476Z'
-dateModified: '2016-06-17T23:29:22.029Z'
+datePublished: '2016-06-17T23:53:50.591Z'
+dateModified: '2016-06-17T23:42:12.369Z'
 title: ''
 author: []
 sourcePath: >-
@@ -26,8 +26,7 @@ url: with-all-the-power-within-melet-me-return-to-lovelet-me-walk/index.html
 _type: Article
 
 ---
-Let us Pray - Into the vastness of the great unknown but ever-felt presence.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/dbd53b70-00e1-496a-9a85-11c3630da2dd.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a70b8a-c826-4379-aef9-ac31c4693dcf.jpg)
 
 With all the power within me  
 Let me return to Love  
