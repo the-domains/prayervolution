@@ -4,7 +4,7 @@
         <description><![CDATA[Prayervolution]]></description>
         <link>http://prayervolution.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 18 Jun 2016 00:32:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2016 00:35:51 GMT</lastBuildDate>
         <atom:link href="http://prayervolution.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Let Us Pray]]></title>
@@ -12,13 +12,6 @@
             <link>http://prayervolution.com/let-us-pray/index.html</link>
             <guid isPermaLink="false">3194b27f-c45c-4588-8dce-fb2f1d9a8878</guid>
             <pubDate>Sat, 18 Jun 2016 00:03:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With All The Power Within]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a70b8a-c826-4379-aef9-ac31c4693dcf.jpg">]]></description>
-            <link>http://prayervolution.com/with-all-the-power-within-melet-me-return-to-lovelet-me-walk/index.html</link>
-            <guid isPermaLink="false">4dbafe1e-9261-4e61-bd5d-d9c9d38d37a5</guid>
-            <pubDate>Fri, 17 Jun 2016 23:53:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
