@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
@@ -13,8 +13,8 @@ description: >-
   only thing we know for sure is that we Know nothing at all! May we actively
   seek to take steps towards the light always May we be guided Hear this heart
   prayer And so be Love to all.
-datePublished: '2016-06-18T00:52:35.840Z'
-dateModified: '2016-06-18T00:52:25.602Z'
+datePublished: '2016-06-18T00:53:30.762Z'
+dateModified: '2016-06-18T00:53:25.064Z'
 title: ''
 author: []
 sourcePath: >-
@@ -23,7 +23,7 @@ authors: []
 publisher: null
 starred: false
 url: with-all-the-power-within-melet-me-return-to-lovelet-me-walk/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a70b8a-c826-4379-aef9-ac31c4693dcf.jpg)
