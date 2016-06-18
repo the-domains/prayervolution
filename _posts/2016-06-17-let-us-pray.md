@@ -6,8 +6,8 @@ isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Into the vastness of the great unknown but ever-felt presence - Let us Pray.
-datePublished: '2016-06-18T00:43:52.896Z'
-dateModified: '2016-06-18T00:33:57.428Z'
+datePublished: '2016-06-18T01:03:55.907Z'
+dateModified: '2016-06-18T01:03:41.356Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-17-let-us-pray.md
