@@ -13,8 +13,8 @@ description: >-
   only thing we know for sure is that we Know nothing at all! May we actively
   seek to take steps towards the light always May we be guided Hear this heart
   prayer And so be Love to all.
-datePublished: '2016-06-18T00:37:36.256Z'
-dateModified: '2016-06-18T00:35:37.421Z'
+datePublished: '2016-06-18T00:43:24.530Z'
+dateModified: '2016-06-18T00:37:44.537Z'
 title: ''
 author: []
 sourcePath: >-
