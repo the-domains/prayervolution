@@ -4,21 +4,21 @@
         <description><![CDATA[Prayervolution]]></description>
         <link>http://prayervolution.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 22:14:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2016 22:15:22 GMT</lastBuildDate>
         <atom:link href="http://prayervolution.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Will Power]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eee7837c-aa50-417d-82e2-6ef9c3def799.png">]]></description>
+            <link>http://prayervolution.com/will-power/index.html</link>
+            <guid isPermaLink="false">5b92f359-2d6d-4534-aa60-bbd9d39d58be</guid>
+            <pubDate>Fri, 08 Jul 2016 22:15:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[With All The Power Within Me]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a70b8a-c826-4379-aef9-ac31c4693dcf.jpg">]]></description>
             <link>http://prayervolution.com/with-all-the-power-within-melet-me-return-to-lovelet-me-walk/index.html</link>
             <guid isPermaLink="false">4dbafe1e-9261-4e61-bd5d-d9c9d38d37a5</guid>
             <pubDate>Fri, 08 Jul 2016 22:14:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Power]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eee7837c-aa50-417d-82e2-6ef9c3def799.png">]]></description>
-            <link>http://prayervolution.com/will-power/index.html</link>
-            <guid isPermaLink="false">5b92f359-2d6d-4534-aa60-bbd9d39d58be</guid>
-            <pubDate>Sat, 18 Jun 2016 00:53:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
