@@ -4,21 +4,21 @@
         <description><![CDATA[Prayervolution]]></description>
         <link>http://prayervolution.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Aug 2016 16:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2016 19:43:36 GMT</lastBuildDate>
         <atom:link href="http://prayervolution.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[With All The Power Within Me]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a70b8a-c826-4379-aef9-ac31c4693dcf.jpg">]]></description>
+            <link>http://prayervolution.com/with-all-the-power-within-melet-me-return-to-lovelet-me-walk/index.html</link>
+            <guid isPermaLink="false">4dbafe1e-9261-4e61-bd5d-d9c9d38d37a5</guid>
+            <pubDate>Fri, 19 Aug 2016 19:40:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aa28a0df-679c-40fd-b899-18adb0bc27b1.jpg">]]></description>
             <link>http://prayervolution.com/48c7b5f2-ad9c-46e8-931a-f54da97b216b/index.html</link>
             <guid isPermaLink="false">48c7b5f2-ad9c-46e8-931a-f54da97b216b</guid>
             <pubDate>Fri, 19 Aug 2016 16:06:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[With All The Power Within Me]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a70b8a-c826-4379-aef9-ac31c4693dcf.jpg">]]></description>
-            <link>http://prayervolution.com/with-all-the-power-within-melet-me-return-to-lovelet-me-walk/index.html</link>
-            <guid isPermaLink="false">4dbafe1e-9261-4e61-bd5d-d9c9d38d37a5</guid>
-            <pubDate>Fri, 08 Jul 2016 22:14:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
