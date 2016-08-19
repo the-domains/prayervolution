@@ -1,20 +1,4 @@
-name: Prayervolution
-favicon: null
-layout_spectrum: 0.55236
 typography_spectrum: 0.2717421962879598
-title: Prayervolution
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FFF8E3'
@@ -26,4 +10,21 @@ color:
   lightness: 0.3920686994679272
   saturation: 0.9679416653234512
   rhythmicContrast: 0.0892148099374026
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.55236
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Prayervolution
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Prayervolution
+description: Let Us Pray...
 purpose: []
