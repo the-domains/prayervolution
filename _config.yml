@@ -24,19 +24,19 @@ color:
     - '#69351F'
     - '#BE9D50'
   rhythmicContrast: 0.01703754
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Prayervolution
-favicon: null
 cta:
   bucket: null
   version: null
   domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Prayervolution
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.06511348
-layout_spectrum: 0.9145758
+layout_spectrum: 1
