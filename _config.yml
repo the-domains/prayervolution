@@ -1,4 +1,3 @@
-layout_spectrum: 0.7837302919942886
 typography_spectrum: 0.7201639770064503
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7837302919942886
 analytics:
   google: null
   facebook: null
@@ -26,5 +26,5 @@ cta:
   version: null
 favicon: null
 title: ''
-description: ''
+description: Let Us Pray...
 purpose: []
