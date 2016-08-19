@@ -15,7 +15,7 @@ collections:
 description: ''
 color:
   saturation: 0.1006734
-  brandStrength: 0.8787335
+  brandStrength: 0
   lightness: 0.239546
   brandColors:
     - '#FFFFFF'
@@ -28,12 +28,12 @@ cta:
   bucket: null
   version: null
   domain: null
+name: Prayervolution
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
-name: Prayervolution
 opengraph:
   image: null
   type: null
