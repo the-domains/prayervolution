@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T20:07:35.618Z'
+datePublished: '2016-08-19T22:29:40.544Z'
 sourcePath: >-
   _posts/2016-06-17-with-all-the-power-within-melet-me-return-to-lovelet-me-walk.md
 inFeed: true
@@ -8,7 +8,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-19T20:07:34.714Z'
+dateModified: '2016-08-19T22:29:39.861Z'
 title: ''
 publisher: {}
 description: >-
@@ -27,7 +27,7 @@ url: with-all-the-power-within-melet-me-return-to-lovelet-me-walk/index.html
 _type: Article
 
 ---
-![Harness The Power](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a70b8a-c826-4379-aef9-ac31c4693dcf.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3a70b8a-c826-4379-aef9-ac31c4693dcf.jpg)
 
 With all the power within me   
 Let me return to love   
